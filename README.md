@@ -1,4 +1,4 @@
-<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/5cf6c8fa-f2c3-455c-8820-7b3111dd056a" /># Kelas-KWA-2025
+Kelas-KWA-2025
 
 ## No.1
 <img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/2eb5ef33-c4b1-44c7-9f8c-d193c7fb04a1" />
@@ -38,7 +38,7 @@
 ## No.7
 `{"$ne": null}`
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/eb250c00-403b-42a3-a4b4-ff17a4d3ba8f" />
-<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/d99486ed-f2f3-40c3-8287-77381af61f63" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/4cea030c-6dc4-4443-b25f-282fca097e84" />
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/766f3d97-923c-4189-b771-903226484f67" />
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/afa9e441-112b-4e0e-833a-4d71ff946c29" />
 
